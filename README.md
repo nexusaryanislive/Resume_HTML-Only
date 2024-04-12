@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://nexusaryanislive.github.io/Resume_HTML-Only/">
-    <img src="https://github.com/yourusername/Web-Resume/blob/main/images/logo.png?raw=true" alt="Web Resume Logo" width="200">
+    <img src="https://github.com/nexusaryanislive/Resume_HTML-Only/blob/main/Assets/Assets/Web%20Resume_Logo.jpg" width= "300">
   </a>
   <br>
   Presenting my Web Resume

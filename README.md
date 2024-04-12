@@ -38,4 +38,4 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Web-Resume.git](https://github.com/nexusaryanislive/Resume_HTML-Only
+git clone https://github.com/nexusaryanislive/Resume_HTML-Only
